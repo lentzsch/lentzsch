@@ -7,7 +7,31 @@ Motivated by curiosity, a love of learning, and an appetite for elegant solution
 
 ## 🧰 Tech Stack & Tools
 
+<!-- Language Badges -->
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black "JavaScript")
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white "Python")
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white "SQL")
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white "C")
+
+<!-- Framework Badges -->
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black "React Native")
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white "Flask")
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white "Express")
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-100000?style=for-the-badge&logo=sqlalchemy&logoColor=white "SQLAlchemy")
+
+<!-- Tool Badges -->
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white "Git")
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white "Docker")
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white "VSCode")
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white "PostgreSQL")
+
 ### 🧪 Currently Learning
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white "TypeScript")
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white "FastAPI")
+![PPO / RL](https://img.shields.io/badge/Reinforcement_Learning-FF6F00?style=for-the-badge&logo=openai&logoColor=white "Proximal Policy Optimization")
+![TensorBoard](https://img.shields.io/badge/TensorBoard-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white "TensorBoard")
+
 
 **Languages:** JavaScript · Python · SQL · (conversational in C, if the topic is restrooms or restaurants)
 **Frameworks:** React Native · Flask · Express · SQLAlchemy
