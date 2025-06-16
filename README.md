@@ -66,6 +66,7 @@ including flexible `to_dict` model methods. A solid backend… attached to a ver
 ---
 
 ## 🎯 Current Focus
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lentzsch&show_icons=true&theme=transparent&hide=contribs,prs,issues&hide_rank=true&include_all_commits=false)
 
 * Supporting MyPHI, a medical records aggregator startup.
 * Building a gamified medication tracker app for adolescents and young adults.
