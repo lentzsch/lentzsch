@@ -86,9 +86,9 @@ including flexible `to_dict` model methods. A solid backend… attached to a ver
 
 ## 📬 Reach Out
 
-[LinkedIn](https://www.linkedin.com/in/jameslentzsch/)
+- [LinkedIn](https://www.linkedin.com/in/jameslentzsch/)
+- [jrlentzsch@gmail.com](mailto:jrlentzsch@gmail.com)
 
-email: [jrlentzsch@gmail.com](mailto:jrlentzsch@gmail.com)
 
 ---
 
