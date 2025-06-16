@@ -12,12 +12,14 @@ Motivated by curiosity, a love of learning, and an appetite for elegant solution
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white "Python")
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white "SQL")
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white "C")
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white "C#")
 
 <!-- Framework Badges -->
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black "React Native")
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white "Flask")
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white "Express")
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-100000?style=for-the-badge&logo=sqlalchemy&logoColor=white "SQLAlchemy")
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white ".NET")
 
 <!-- Tool Badges -->
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white "Git")
@@ -33,8 +35,9 @@ Motivated by curiosity, a love of learning, and an appetite for elegant solution
 ![TensorBoard](https://img.shields.io/badge/TensorBoard-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white "TensorBoard")
 
 
-**Languages:** JavaScript · Python · SQL · (conversational in C, if the topic is restrooms or restaurants)
-**Frameworks:** React Native · Flask · Express · SQLAlchemy
+
+**Languages:** JavaScript · Python · SQL · C (conversational) · C#  
+**Frameworks:** React Native · Flask · Express · SQLAlchemy · .NET  
 **Tools:** Git · Docker · VSCode · PostgreSQL
 **Past Lives:** Filmmaker · Real Estate · General engineering nerd.
 
